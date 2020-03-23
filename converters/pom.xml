@@ -11,10 +11,6 @@
 
     <artifactId>converters</artifactId>
 
-    <properties>
-        <mapstruct.version>1.3.1.Final</mapstruct.version>
-    </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
@@ -29,7 +25,6 @@
         <dependency>
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
-            <version>${mapstruct.version}</version>
         </dependency>
     </dependencies>
 
