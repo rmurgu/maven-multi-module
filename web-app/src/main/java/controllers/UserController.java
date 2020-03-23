@@ -1,7 +1,8 @@
 package controllers;
 
-import com.example.User;
-import com.example.UserCommand;
+
+import commands.UserCommand;
+import entities.User;
 
 public class UserController {
 

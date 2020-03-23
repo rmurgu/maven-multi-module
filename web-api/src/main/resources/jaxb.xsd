@@ -6,7 +6,7 @@
     <xsd:annotation>
         <xsd:appinfo>
             <jaxb:schemaBindings>
-                <jaxb:package name="com.example"/>
+                <jaxb:package name="commands"/>
             </jaxb:schemaBindings>
         </xsd:appinfo>
     </xsd:annotation>
